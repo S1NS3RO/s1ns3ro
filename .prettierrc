@@ -1,3 +1,4 @@
+// Minhas configurações prettier padrão
 {
   "trailingComma": "es5",
   "printWidth": 100,
